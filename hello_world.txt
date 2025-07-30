@@ -1,2 +1,3 @@
 hello odin this is safwan
 this si my first git push via odin
+i am trying this one by myself
